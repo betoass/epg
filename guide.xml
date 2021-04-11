@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Boa Vontade TV">
+    <display-name lang="pt">Boa Vontade TV</display-name>
+    <icon src="../canais/megaclasicostv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Boas Novas">
+    <display-name lang="pt">Boas Novas</display-name>
+    <icon src="../canais/tvaltamira.gif|../canais/redecultura-pa.gif|../canais/cultura.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="pt">Boomerang</display-name>
+    <icon src="../canais/tvcamara-ourinhos.gif|../canais/1567767878.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BYU TV">
+    <display-name lang="pt">BYU TV</display-name>
+    <icon src="../canais/1615984672.gif|../canais/cw.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Campus TV">
+    <display-name lang="pt">Campus TV</display-name>
+    <icon src="../canais/tvcnews.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canal 20 POA">
+    <display-name lang="pt">Canal 20 POA</display-name>
+    <icon src="../canais/1597862713.gif|../canais/unimas.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canal 25 Jundiaí">
+    <display-name lang="pt">Canal 25 Jundiaí</display-name>
+    <icon src="../canais/tvpontanegra-santarem.gif|../canais/1617141781.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canal Adulto">
+    <display-name lang="pt">Canal Adulto</display-name>
+    <icon src="../canais/1574948399.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canal Brasil">
+    <display-name lang="pt">Canal Brasil</display-name>
+    <icon src="../canais/1614263394.gif|../canais/1617398389.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canal Capibaribe">
+    <display-name lang="pt">Canal Capibaribe</display-name>
+    <icon src="../canais/tvmiracema.gif|../canais/1591219599.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canal do Boi">
+    <display-name lang="pt">Canal do Boi</display-name>
+    <icon src="../radios/1614875739.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canal Rural">
+    <display-name lang="pt">Canal Rural</display-name>
+    <icon src="../canais/tvamazonia-araguaina.gif|../canais/band.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canal Saúde">
+    <display-name lang="pt">Canal Saúde</display-name>
+    <icon src="../canais/nst.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canal X">
+    <display-name lang="pt">Canal X</display-name>
+    <icon src="../canais/rcn.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canção Nova">
+    <display-name lang="pt">Canção Nova</display-name>
+    <icon src="../canais/ctv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pt">Cartoon Network</display-name>
+    <icon src="../canais/tvcidade-bacabal.gif|../canais/tvcidade-ma.gif|../canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CATVE">
+    <display-name lang="pt">CATVE</display-name>
+    <icon src="../canais/1589153538.gif|../canais/iciradiocanadatele.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Chef TV">
+    <display-name lang="pt">Chef TV</display-name>
+    <icon src="../canais/1582766088.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CineBrasil TV">
+    <display-name lang="pt">CineBrasil TV</display-name>
+    <icon src="../canais/holvoet.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="pt">Cinemax</display-name>
+    <icon src="../canais/1589000625.gif|../canais/citytv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CNNe">
+    <display-name lang="pt">CNNe</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CNNi">
+    <display-name lang="pt">CNNi</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CNT">
+    <display-name lang="pt">CNT</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CNT Bahia">
+    <display-name lang="pt">CNT Bahia</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CNT Curitiba">
+    <display-name lang="pt">CNT Curitiba</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CNT Londrina">
+    <display-name lang="pt">CNT Londrina</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CNT RJ">
+    <display-name lang="pt">CNT RJ</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CNU">
+    <display-name lang="pt">CNU</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="pt">Comedy Central</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Conexão BR">
+    <display-name lang="pt">Conexão BR</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CQ7 TV Caxias do Sul">
+    <display-name lang="pt">CQ7 TV Caxias do Sul</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Cultura">
+    <display-name lang="pt">Cultura</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Curta!">
+    <display-name lang="pt">Curta!</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CWB TV">
+    <display-name lang="pt">CWB TV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="pt">Discovery Channel</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Civilization">
+    <display-name lang="pt">Discovery Civilization</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Home &amp; Health">
+    <display-name lang="pt">Discovery Home &amp; Health</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Kids">
+    <display-name lang="pt">Discovery Kids</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Science">
+    <display-name lang="pt">Discovery Science</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Theater">
+    <display-name lang="pt">Discovery Theater</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Turbo">
+    <display-name lang="pt">Discovery Turbo</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery World">
+    <display-name lang="pt">Discovery World</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="pt">Disney Channel</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="pt">Disney Junior</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="pt">Disney XD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DW-TV">
+    <display-name lang="pt">DW-TV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="E!">
+    <display-name lang="pt">E!</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="EI Maxx">
+    <display-name lang="pt">EI Maxx</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="EI Maxx 2">
+    <display-name lang="pt">EI Maxx 2</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="eParaná">
+    <display-name lang="pt">eParaná</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="EPTV Campinas">
+    <display-name lang="pt">EPTV Campinas</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="EPTV Central">
+    <display-name lang="pt">EPTV Central</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="EPTV Ribeirão">
+    <display-name lang="pt">EPTV Ribeirão</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="EPTV Sul de Minas">
+    <display-name lang="pt">EPTV Sul de Minas</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="pt">ESPN</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN +">
+    <display-name lang="pt">ESPN +</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN Brasil">
+    <display-name lang="pt">ESPN Brasil</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN Extra">
+    <display-name lang="pt">ESPN Extra</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Esporte Interativo">
+    <display-name lang="pt">Esporte Interativo</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Eurochannel">
+    <display-name lang="pt">Eurochannel</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FashionTV Brasil">
+    <display-name lang="pt">FashionTV Brasil</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FEB TV">
+    <display-name lang="pt">FEB TV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Fish TV">
+    <display-name lang="pt">Fish TV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Fonte TV">
+    <display-name lang="pt">Fonte TV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Food Network">
+    <display-name lang="pt">Food Network</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Fox">
+    <display-name lang="pt">Fox</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FoxLife">
+    <display-name lang="pt">FoxLife</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FoxNews">
+    <display-name lang="pt">FoxNews</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FoxSports">
+    <display-name lang="pt">FoxSports</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FoxSports 2">
+    <display-name lang="pt">FoxSports 2</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
